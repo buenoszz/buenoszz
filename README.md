@@ -1,13 +1,2 @@
-# Hi there, I'm João Vitor 👋
-
-## 🛡️ Sobre Mim
-Estudante de Ciência da Computação e entusiasta de **Cibersegurança**, com foco em transição de carreira para a área de segurança da informação. Atualmente focado em fortalecer minha base em **redes, administração de sistemas Linux e segurança defensiva**, aplicando conceitos práticos por meio de laboratórios e plataformas de desafios.
-
-## 🛠️ Tecnologias & Ferramentas
-* **Sistemas & Redes:** Linux (Bash/Shell Script), Cisco Packet Tracer, TCP/IP, DNS, DHCP
-* **Segurança Prática:** TryHackMe, Hack The Box, Cisco Networking Academy
-* **Linguagens & Automação:** Python, SQL, Git/GitHub
-* **Infraestrutura:** VirtualBox, Vagrant
-
-## 🎯 Objetivo
-Desenvolver habilidades técnicas sólidas em segurança defensiva e análise de vulnerabilidades, construindo projetos práticos, documentando writeups de laboratórios e criando soluções que ajudem a mitigar riscos e proteger infraestruturas.
+# Olá, mundo! Sou o João Vitor 👋 
+Estudante de Ciência da Computação, apaixonado por tecnologia e infraestrutura, atualmente focado em construir uma carreira sólida em Cibersegurança. Estou em constante evolução em redes, administração de sistemas Linux, automação de tarefas e segurança defensiva/ofensiva através de laboratórios práticos.🛠️ Hard Skills & TecnologiasCategoriaTecnologias / FerramentasSistemas & SOLinux (Ubuntu, Kali, Debian), Windows Server, Bash / Shell ScriptRedes & InfraTCP/IP, DNS, DHCP, Subnetting, Cisco Packet Tracer, Vagrant, VirtualBoxSegurança & LabsTryHackMe, Hack The Box, Análise de Vulnerabilidades, HardeningProgramação & Banco de DadosPython, SQL, Git / GitHub📊 Estatísticas📂 O que você vai encontrar por aqui?Meus repositórios e projetos são focados em consolidar a prática na segurança da informação:🐍 Automação em Python: Scripts utilitários para tarefas de segurança e produtividade.📝 Writeups & Labs: Resumos e anotações de laboratórios práticos (TryHackMe / CTFs).🌐 Projetos de Redes: Topologias e simulações focadas em segurança de redes e protocolos.📫 Conecte-se Comigo💼 LinkedIn: [Insira seu link aqui]🎯 TryHackMe / Portfólio: [Insira seu link aqui]📧 E-mail: [Seu e-mail de contato]"Segurança não é um produto, é um processo." – Bruce Schneier
