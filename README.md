@@ -43,12 +43,6 @@ I'm especially interested in **network security, Linux, SOC and investigating se
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
-
----
-
 ### 📫 Let's Connect
 
 💼 [LinkedIn](https://linkedin.com/in/buenojoao/)
