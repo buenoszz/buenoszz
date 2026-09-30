@@ -1,29 +1,55 @@
-# 👋 Hi, I'm João
+# 👋 Hey! I'm João Vitor
 
-🎓 Computer Science student
-💻 IT Infrastructure & Technical Support
-🔐 Transitioning into Cybersecurity
+🎓 **Computer Science Student**
+💻 **IT Infrastructure & Technical Support**
+🔐 **Transitioning into Cybersecurity**
 
-### 🛠️ Skills & Technologies
+> 🚀 Learning by building, testing and breaking things in labs.
 
-* Linux
-* Networking
-* Windows
-* Cybersecurity
-* Python
-* SQL
-* Git & GitHub
-* Virtualization
+---
+
+### 🧑‍💻 About Me
+
+I'm a Computer Science student with experience in **IT Support and Infrastructure**, currently focusing my studies on **Cybersecurity**.
+
+I'm especially interested in **network security, Linux, SOC and investigating security incidents**.
+
+---
+
+### 🛠️ Tech & Tools
+
+🐧 **Linux** · 🌐 **Networking** · 🔐 **Cybersecurity**
+💻 **Windows** · 🐍 **Python** · 🗄️ **SQL**
+📦 **Git/GitHub** · 🖥️ **Virtual Machines** · 🔧 **Cisco Packet Tracer**
+
+---
 
 ### 📚 Currently Learning
 
-Cybersecurity, Linux, Network Security and practical security labs.
+🔹 Cybersecurity Fundamentals
+🔹 Linux & Security
+🔹 Network Security
+🔹 Security Labs & CTFs
+🔹 Incident Investigation
 
-### 🚀 Projects
+---
 
-🔹 Network & Cisco Packet Tracer Labs
-🔹 Linux Security Labs
-🔹 Python Security Scripts
-🔹 Cybersecurity Labs
+### 🚀 Featured Projects
 
-📫 **LinkedIn:** [linkedin.com/in/buenojoao](https://linkedin.com/in/buenojo/)
+🔹 🌐 **Network Labs** — Cisco Packet Tracer
+🔹 🐧 **Linux Security Labs**
+🔹 🐍 **Python Security Scripts**
+🔹 🔎 **Log Analysis & Investigation Labs**
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO\&show_icons=true\&theme=tokyonight)
+
+---
+
+### 📫 Let's Connect
+
+💼 [LinkedIn](https://linkedin.com/in/buenojoao/)
+📧 **[joaobuenorocha2004@gmail.com](mailto:joaobuenorocha2004@gmail.com)**
