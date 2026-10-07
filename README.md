@@ -37,5 +37,15 @@
 ---
 
 ### 📫 Conecte-se comigo
-- **LinkedIn:**(https://www.linkedin.com/feed/foryou/)
-- **E-mail:** joaobuenorocha2004@gmail.com
+
+<p>
+  <!-- Link clicável para o LinkedIn -->
+  <a href="https://linkedin.com/in/seu-usuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <!-- Link clicável para abrir o Gmail -->
+  <a href="mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
