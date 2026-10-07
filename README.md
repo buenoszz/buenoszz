@@ -36,15 +36,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=buenoszz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1f2335" alt="GitHub Stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buenoszz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f2335" alt="Top Langs">
-</p>
-
----
-
 ### 📫 Conecte-se comigo
-- **LinkedIn:** [Insira seu link aqui]
-- **E-mail:** [Seu e-mail de contato]
+- **LinkedIn:**(https://www.linkedin.com/feed/foryou/)
+- **E-mail:** joaobuenorocha2004@gmail.com
